@@ -1,0 +1,3 @@
+[Core]
+Name = HTML (Table) Output Backend
+Module = html.py
